@@ -1,0 +1,46 @@
+<<<<<<< HEAD:front.CSS
+.Luces {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+   justify-content: center;
+    gap: 5px;
+
+}
+
+button{
+    width: 35%;
+    height: 50px;
+    
+}
+button:hover {
+    background-color: red;
+    cursor: pointer;
+}
+
+.encendido {
+    background-color: #fff9c4;
+=======
+.Luces {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+   justify-content: center;
+    gap: 5px;
+
+}
+
+button{
+    width: 100px;
+    height: 50px;
+    
+}
+button:hover {
+    background-color: red;
+    cursor: pointer;
+}
+
+.encendido {
+    background-color: #fff9c4;
+>>>>>>> 47cd4af7797cc2eb5e8958b1c44050d916ad215c:front.css
+}
