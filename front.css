@@ -29,15 +29,6 @@ button:hover {
 
 }
 
-button{
-    width: 200px;
-    height: 50px;
-    
-}
-button:hover {
-    background-color: red;
-    cursor: pointer;
-}
 
 .encendido {
     background-color: #fff9c4;
